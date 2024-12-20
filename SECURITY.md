@@ -4,7 +4,7 @@ Copilot ID takes the security of our software products and services seriously, i
 
 ## Reporting Security Issues
 
-If you believe you have found a security vulnerability in any Copilot ID-owned repository, please report it to us through coordinated disclosure. Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests. Instead, please send an email to [security@copilotid.com](mailto:security@copilotid.com). 
+If you believe you have found a security vulnerability in any Copilot ID-owned repository, please report it to us through coordinated disclosure. Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests. Instead, please send an email to [ridwaanhall.dev@gmail.com](mailto:ridwaanhall.dev@gmail.com). 
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 
